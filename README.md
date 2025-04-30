@@ -39,4 +39,3 @@
 
 ---
 
-⭐️ Curta e siga meu perfil para acompanhar novos projetos!
