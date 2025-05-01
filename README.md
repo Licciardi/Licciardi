@@ -10,7 +10,7 @@
 
 ![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,mysql,azure,vscode,visualstudio)
 
-> e Também: **SQL Server**
+
 
 ---
 
