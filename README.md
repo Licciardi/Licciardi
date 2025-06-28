@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Luigi!
+# Ola me chamo, Luigi Licciardi
 
 🎓 Estudante de Sistemas de Informação  
 💡 Criativo, curioso e apaixonado por tecnologia  
@@ -8,7 +8,7 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,db,azure,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,mysql,azure,vscode,visualstudio)
 
 
 
