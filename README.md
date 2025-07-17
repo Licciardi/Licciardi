@@ -1,8 +1,10 @@
 # Ola me chamo, Luigi Licciardi
 
 🎓 Estudante de Sistemas de Informação  
-💡 Criativo, curioso e apaixonado por tecnologia  
-🎮 Gosto de games, desenvolvimento e projetos desafiadores
+- 🧩 ASP.NET MVC com C#
+- 🛢️ SQL Server e MySQL
+- 🔐 Fundamentos de Cibersegurança
+- ☁️ Conceitos de computação em nuvem
 
 ---
 
@@ -24,12 +26,6 @@
 
 ---
 
-## 🧠 Atualmente aprendendo
-
-- 🧩 ASP.NET MVC com C#
-- 🛢️ SQL Server e MySQL
-- 🔐 Fundamentos de Cibersegurança
-- ☁️ Conceitos de computação em nuvem
 
 ---
 
