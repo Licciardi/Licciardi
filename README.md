@@ -1,20 +1,19 @@
-# Ola me chamo, Luigi Licciardi
+# 👋 Olá, me chamo Luigi Licciardi
 
 🎓 Estudante de Sistemas de Informação  
-- 🧩 ASP.NET MVC com C#
-- 🛢️ SQL Server e MySQL
-- 🔐 Fundamentos de Cibersegurança
-- ☁️ Conceitos de computação em nuvem
+
+### 📚 Atualmente aprendendo
+- 🐍 **Python** para Análise de Dados e Machine Learning  
+- 🧩 Desenvolvimento com **ASP.NET MVC (C#)**  
+- 🛢️ **SQL Server** e **MySQL**  
+- 🔐 Fundamentos de **Cibersegurança**  
+- ☁️ Conceitos de **Computação em Nuvem (Azure)**  
 
 ---
 
 ## 🚀 Tecnologias & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,mysql,azure,vscode,visualstudio,java)
-
-
-
-
+![My Skills](https://skillicons.dev/icons?i=java,python,cs,js,html,css,dotnet,bootstrap,mysql,git,github,azure,visualstudio,vscode)
 
 ---
 
@@ -27,13 +26,9 @@
 
 ---
 
-
----
-
 ## 📫 Contato
 
-- Email: `lu.licciardi@gmail.com`
-- LinkedIn: [https://www.linkedin.com/in/luigi-licciardi/](https://www.linkedin.com/in/luigi-licciardi/)
+- 📧 Email: `lu.licciardi@gmail.com`  
+- 💼 LinkedIn: [linkedin.com/in/luigi-licciardi](https://www.linkedin.com/in/luigi-licciardi/)  
 
 ---
-
