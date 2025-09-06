@@ -10,7 +10,8 @@
 
 ## 🚀 Tecnologias & Ferramentas
 
-![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,mysql,azure,vscode,visualstudio)
+![My Skills](https://skillicons.dev/icons?i=cs,dotnet,js,html,css,bootstrap,git,github,mysql,azure,vscode,visualstudio,java)
+
 
 
 
